@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://beacons.ai/ramonhveloso">
