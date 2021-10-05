@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ramon Henrique Veloso
+## Olá! Eu sou Ramon Henrique Veloso
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Python
