@@ -1,7 +1,9 @@
 ## Olá! Eu sou Ramon Henrique Veloso
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+-  ☕ Hoje trabalho com back-end
+-  🐍 Estudando Python, Banco de Dados, HTML, C++
+-  ✈ Piloto de Drones
+-  📚 Conhecimento reconstrução de superfícies a partir de nuvens de pontos
 
 <div>
   <a href="https://beacons.ai/ramonhveloso">
