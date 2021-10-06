@@ -4,7 +4,10 @@
 -  🐍 Estudando Python, Banco de Dados, HTML, C++
 -  ✈ Piloto de Drones
 -  📚 Conhecimento digitalização 3D
--  21 Certificados na plataforma Alura
+-  🎓 21 Certificados na plataforma Alura
+-  👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas- Universidade Positivo
+-  👨‍🎓 Cursando Estatística- Universidade Federal do Paraná
+  
 <div>
   <a href="https://beacons.ai/ramonhveloso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonhveloso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
