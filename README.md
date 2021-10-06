@@ -3,8 +3,8 @@
 -  ☕ Hoje trabalho com back-end
 -  🐍 Estudando Python, Banco de Dados, HTML, C++
 -  ✈ Piloto de Drones
--  📚 Conhecimento reconstrução de superfícies a partir de nuvens de pontos
-
+-  📚 Conhecimento digitalização 3D
+-  + 99 Certificados na plataforma Alura
 <div>
   <a href="https://beacons.ai/ramonhveloso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonhveloso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
