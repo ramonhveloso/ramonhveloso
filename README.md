@@ -7,13 +7,19 @@
   <a href="https://www.linkedin.com/in/ramon-henrique-veloso-2b6801134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
--  ☕ Hoje trabalho com back-end
--  🐍 Atualmente estudando Python
--  ✈ Piloto de Drones
--  📚 Conhecimento digitalização 3D
+-  ☕ Full Stack Developer
+-  🐍 Back-end Python ou Node.js
+-  ⚛️ Front-end Web React Js
+-  📱 Mobile React Native ou Flutter
+-  💻 Banco de dados não relacional: Firebase 
+-  💻 Banco de dados relacional: Mysql e Oracle
+-  ✈ Piloto de Drones e experiência com técnicas de Fotogrametria 
+-  📚 Conhecimento digitalização 3D e Digital Twin
 -  🎓 +99 Certificados nas plataformas Alura, Curso em Vídeo, DevMedia e Udemy
--  👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas- Universidade Positivo
--  👨‍🎓 Cursando Estatística- Universidade Federal do Paraná
+-  👨‍🎓 7/9 Bacharelado em Estatística- Universidade Federal do Paraná
+-  👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas- Universidade Positivo
+-  👨‍🎓 Cursando Engenharia de Computação- Universidade Positivo
+
   
 <div>
   <a href="https://beacons.ai/ramonhveloso">
