@@ -16,9 +16,10 @@
 -  ✈ Piloto de Drones e experiência com técnicas de Fotogrametria 
 -  📚 Conhecimento digitalização 3D e Digital Twin
 -  🎓 +99 Certificados nas plataformas Alura, Curso em Vídeo, DevMedia e Udemy
--  👨‍🎓 Bacharelado em Estatística- Universidade Federal do Paraná 7/9
+-  👨‍🎓 Bacharelado interrompido em Estatística- Universidade Federal do Paraná 7/9
 -  👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas- Universidade Positivo
--  👨‍🎓 Cursando Engenharia de Computação- Universidade Positivo
+-  👨‍🎓 Cursando Engenharia Mecatrônica- Universidade Cesumar
+-  👨‍🎓 Cursando Pos-Graduação em Engenharia de Software- Universidade Tecnológica do Paraná
 
   
 <div>
