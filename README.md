@@ -11,8 +11,8 @@
 -  🐍 Back-end Python ou Node.js
 -  ⚛️ Front-end Web React Js
 -  📱 Mobile React Native ou Flutter
--  💻 Banco de dados não relacional: Firebase 
--  💻 Banco de dados relacional: Mysql e Oracle
+-  💻 Banco de dados não relacional: MongoDB, Redis, Cassandra, Amazon DynamoDB, Couchbase, Neo4j, Elasticsearch, HBase, Firebase Firestore, CouchDB, InfluxDB, ArangoDB, ScyllaDB, Aerospike.
+-  💻 Banco de dados relacional: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Oracle Database, MariaDB, IBM Db2, Sybase, Firebird, SAP HANA, Amazon Aurora, CockroachDB, Amazon RDS, Teradata, Vertica, Ingres
 -  ✈ Piloto de Drones e experiência com técnicas de Fotogrametria 
 -  📚 Conhecimento digitalização 3D e Digital Twin
 -  🎓 +99 Certificados nas plataformas Alura, Curso em Vídeo, DevMedia e Udemy
