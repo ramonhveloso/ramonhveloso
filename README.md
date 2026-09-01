@@ -25,12 +25,6 @@
 -  👨‍🎓 Pos-Graduação em Engenharia de Software- Universidade Tecnológica do Paraná
 
   
-<div>
-  <a href="https://beacons.ai/ramonhveloso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonhveloso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonhveloso&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
