@@ -8,15 +8,18 @@
 </div>
 
 -  ☕ Full Stack Developer
--  🐍 Back-end Python ou Node.js
--  ⚛️ Front-end Web React Js
--  📱 Mobile React Native ou Flutter
--  💻 Banco de dados não relacional: MongoDB, Redis, Cassandra, Amazon DynamoDB, Couchbase, Neo4j, Elasticsearch, HBase, Firebase Firestore, CouchDB, InfluxDB, ArangoDB, ScyllaDB, Aerospike.
--  💻 Banco de dados relacional: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Oracle Database, MariaDB, IBM Db2, Sybase, Firebird, SAP HANA, Amazon Aurora, CockroachDB, Amazon RDS, Teradata, Vertica, Ingres
+-  🐍 Back-end: Python (FastAPI, Django) e Node.js
+-  ⚛️ Front-end: React.js
+-  📱 Mobile: React Native e Flutter
+-  🏗️ Arquitetura: Microserviços, APIs REST, arquitetura orientada a eventos e mensageria
+-  📨 Mensageria & Filas: RabbitMQ, Redis, Celery e Azure Storage Queues
+-  ☁️ Infra & DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, Linux e AWS
+-  🗄️ Bancos de Dados: PostgreSQL, Oracle, SQL Server, MySQL, MongoDB, Redis e DynamoDB
+-  ✈️ Piloto de Drones com experiência em Fotogrametria
+-  📚 Digitalização 3D e Digital Twin
 -  ✈ Piloto de Drones e experiência com técnicas de Fotogrametria 
 -  📚 Conhecimento digitalização 3D e Digital Twin
 -  🎓 +99 Certificados nas plataformas Alura, Curso em Vídeo, DevMedia e Udemy
--  👨‍🎓 Matematica e Estatística- Universidade Federal do Paraná
 -  👨‍🎓 Análise e Desenvolvimento de Sistemas- Universidade Positivo
 -  👨‍🎓 Engenharia Mecatrônica- Universidade Cesumar
 -  👨‍🎓 Pos-Graduação em Engenharia de Software- Universidade Tecnológica do Paraná
