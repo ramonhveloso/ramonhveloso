@@ -4,7 +4,7 @@
 
 **Engenheiro de Software**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=580&lines=Arquitetura.+Performance.+Escala.;Backend%2C+cloud+e+sistemas+distribu%C3%ADdos;Construindo+o+que+fica+de+p%C3%A9+em+produ%C3%A7%C3%A3o" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=620&lines=Arquitetura.+IA.+Sistemas+em+produ%C3%A7%C3%A3o;APIs%2C+cloud%2C+agents+e+automa%C3%A7%C3%A3o;Do+backend+%C3%A0+experi%C3%AAncia+completa" alt="typing"/>
 
 <br/><br/>
 
@@ -21,21 +21,25 @@
 
 ### Quem sou
 
-Engenheiro de Software com olhar de arquitetura: APIs sólidas, fluxos assíncronos, cloud e o ciclo completo até produção.  
-Gosto de sistemas que sustentam carga real — não só demos que brilham no localhost.
+Código desde **2015**. Mais de uma década formando base na raça — debug, arquitetura e produção — bem antes da IA virar atalho.  
+Hoje uno essa experiência a sistemas distribuídos, cloud e inteligência artificial aplicada: backends, plataformas e produtos com LLMs, agents e automação inteligente.
 
-### O que eu construo
+### Em que estou de olho
 
-- **Backend** — Python (FastAPI, Django), Node.js, APIs REST e mensageria  
-- **Plataforma** — Docker, Kubernetes, CI/CD, AWS, Linux  
-- **Dados** — PostgreSQL, MongoDB, Redis, Oracle, SQL Server, DynamoDB  
-- **Produto** — React, React Native, Flutter  
+Integração de **LLMs** em produtos reais, **AI agents**, RAG, orquestração de pipelines e o uso de IA no ciclo de engenharia — do código ao deploy.  
+No dia a dia: APIs de alta performance, mensageria, containers, Kubernetes e dados em escala (SQL e NoSQL).  
+Também no front e mobile quando o produto pede a experiência completa.
 
 ### Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,ts,react,flutter,docker,kubernetes,aws,postgres,mongodb,redis,linux&theme=dark" />
 </p>
+
+Python · FastAPI · Django · Node.js · TypeScript · React · React Native · Flutter  
+Docker · Kubernetes · AWS · GitHub Actions · RabbitMQ · Celery · Redis  
+PostgreSQL · MongoDB · Oracle · SQL Server · DynamoDB  
+LLMs · Agents · RAG · AI-assisted engineering
 
 ### Trajetória
 
