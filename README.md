@@ -13,7 +13,7 @@
 <a href="https://www.twitch.tv/ramonhveloso"><img src="https://img.shields.io/badge/Twitch-0D1117?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
 <a href="https://instagram.com/ramonhveloso"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 
-</div>
+<br/>
 
 ---
 
@@ -30,9 +30,9 @@ Also frontend and mobile when the product needs the full experience.
 
 ### Toolkit
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,ts,react,flutter,docker,kubernetes,aws,postgres,mongodb,redis,linux&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,ts,react,flutter,docker,kubernetes,aws,postgres,mongodb,redis,linux&theme=dark" alt="toolkit"/>
+
+<br/><br/>
 
 Python · FastAPI · Django · Node.js · TypeScript · React · React Native · Flutter  
 Docker · Kubernetes · AWS · GitHub Actions · RabbitMQ · Celery · Redis  
@@ -41,9 +41,9 @@ LLMs · Agents · RAG · AI-assisted engineering
 
 ### Education
 
-- **UTFPR** — Graduate degree in Software Engineering  
-- **Universidade Positivo** — Systems Analysis and Development  
-- **Universidade Cesumar** — Mechatronics Engineering  
+**UTFPR** — Graduate degree in Software Engineering  
+**Universidade Positivo** — Systems Analysis and Development  
+**Universidade Cesumar** — Mechatronics Engineering  
 
 ### Offtime
 
@@ -56,8 +56,6 @@ When the editor closes, the rest stays on:
 And in the air: drones, photogrammetry, 3D scanning, and digital twins — software meeting the physical world.
 
 ---
-
-<div align="center">
 
 <img src="https://github.com/ramonhveloso/ramonhveloso/blob/main/github-contribution-grid-snake.svg" alt="contribution snake"/>
 
