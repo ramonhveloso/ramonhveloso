@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ramon%20Henrique%20Veloso&fontSize=38&fontColor=5C7A9A&desc=Engenheiro%20de%20Software&descAlignY=72&descSize=15&descColor=7A8FA3&fontAlignY=42" width="100%" alt="Ramon Henrique Veloso — Engenheiro de Software"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ramon%20Henrique%20Veloso&fontSize=38&fontColor=ffffff&desc=Software%20Engineer&descAlignY=72&descSize=15&descColor=d0d7de&fontAlignY=42" width="100%" alt="Ramon Henrique Veloso — Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=620&lines=Arquitetura.+IA.+Sistemas+em+produ%C3%A7%C3%A3o;APIs%2C+cloud%2C+agents+e+automa%C3%A7%C3%A3o;Do+backend+%C3%A0+experi%C3%AAncia+completa" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=620&lines=Architecture.+AI.+Production+systems;APIs%2C+cloud%2C+agents+%26+automation;From+backend+to+full+product+experience" alt="typing"/>
 
 <br/><br/>
 
@@ -17,18 +17,18 @@
 
 ---
 
-### Quem sou
+### About me
 
-Código desde **2015**. Mais de uma década formando base na raça — debug, arquitetura e produção — bem antes da IA virar atalho.  
-Hoje uno essa experiência a sistemas distribuídos, cloud e inteligência artificial aplicada: backends, plataformas e produtos com LLMs, agents e automação inteligente.
+Coding since **2015**. Over a decade building the hard way — debugging, architecture, and production — long before AI became a shortcut.  
+Today I bring that foundation into distributed systems, cloud, and applied AI: backends, platforms, and products with LLMs, agents, and intelligent automation.
 
-### Em que estou de olho
+### What I'm into
 
-Integração de **LLMs** em produtos reais, **AI agents**, RAG, orquestração de pipelines e o uso de IA no ciclo de engenharia — do código ao deploy.  
-No dia a dia: APIs de alta performance, mensageria, containers, Kubernetes e dados em escala (SQL e NoSQL).  
-Também no front e mobile quando o produto pede a experiência completa.
+Shipping **LLMs** into real products, **AI agents**, RAG, pipeline orchestration, and AI across the engineering lifecycle — from code to deploy.  
+Day to day: high-performance APIs, messaging, containers, Kubernetes, and data at scale (SQL and NoSQL).  
+Also frontend and mobile when the product needs the full experience.
 
-### Ferramentas
+### Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,ts,react,flutter,docker,kubernetes,aws,postgres,mongodb,redis,linux&theme=dark" />
@@ -39,21 +39,21 @@ Docker · Kubernetes · AWS · GitHub Actions · RabbitMQ · Celery · Redis
 PostgreSQL · MongoDB · Oracle · SQL Server · DynamoDB  
 LLMs · Agents · RAG · AI-assisted engineering
 
-### Trajetória
+### Education
 
-- **UTFPR** — Pós-Graduação em Engenharia de Software  
-- **Universidade Positivo** — Análise e Desenvolvimento de Sistemas  
-- **Cesumar** — Engenharia Mecatrônica  
+- **UTFPR** — Graduate degree in Software Engineering  
+- **Universidade Positivo** — Systems Analysis and Development  
+- **Universidade Cesumar** — Mechatronics Engineering  
 
 ### Offtime
 
-Quando o editor fecha, o resto continua ligado:
+When the editor closes, the rest stays on:
 
-`matemática` — a linguagem por trás de tudo que eu construo, e o que mais me move  
-`futebol` · `futevôlei` — ritmo, disputa e jogo coletivo  
-`música` — trilha de fundo pra tudo que importa  
+`mathematics` — the language behind everything I build, and what drives me most  
+`soccer` · `footvolley` — rhythm, competition, and team play  
+`music` — the soundtrack to everything that matters  
 
-E no ar: drones, fotogrametria, digitalização 3D e digital twins — software encontrando o mundo físico.
+And in the air: drones, photogrammetry, 3D scanning, and digital twins — software meeting the physical world.
 
 ---
 
