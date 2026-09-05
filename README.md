@@ -1,19 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ramon%20Henrique%20Veloso&fontSize=38&fontColor=ffffff&desc=Software%20Engineer&descAlignY=72&descSize=15&descColor=d0d7de&fontAlignY=42" width="100%" alt="Ramon Henrique Veloso — Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=88&color=0:05080F,50:0E1624,100:05080F&text=RAMON%20HENRIQUE%20VELOSO&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=%5B%20SOFTWARE%20ENGINEER%20%2F%20AI%20%2F%20SYSTEMS%20%5D&descAlignY=68&descSize=12&descColor=B8C4D4" width="85%" alt="Ramon Henrique Veloso — Software Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=620&lines=Architecture.+AI.+Production+systems;APIs%2C+cloud%2C+agents+%26+automation;From+backend+to+full+product+experience" alt="typing"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=800&color=8FA3B8&center=true&vCenter=true&width=560&height=28&lines=Architecture.+AI.+Production+systems;APIs+%2F+cloud+%2F+agents+%2F+automation;Backend+to+full+product+experience" alt="typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
+<img src="https://img.shields.io/badge/SINCE-2015-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_%2B_SYSTEMS-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ramonhveloso/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7A93B0" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/c/RamonHenriqueVeloso"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=E74C3C" alt="YouTube"/></a>
-<a href="https://www.twitch.tv/ramonhveloso"><img src="https://img.shields.io/badge/Twitch-0D1117?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
-<a href="https://instagram.com/ramonhveloso"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/ramonhveloso/"><img src="https://img.shields.io/badge/LinkedIn-05080F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/c/RamonHenriqueVeloso"><img src="https://img.shields.io/badge/YouTube-05080F?style=for-the-badge&logo=youtube&logoColor=FF4444" alt="YouTube"/></a>
+<a href="https://www.twitch.tv/ramonhveloso"><img src="https://img.shields.io/badge/Twitch-05080F?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
+<a href="https://instagram.com/ramonhveloso"><img src="https://img.shields.io/badge/Instagram-05080F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 
 </div>
-
-<br/>
 
 ---
 
