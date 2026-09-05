@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Ramon Henrique Veloso — Engenheiro de Software" width="520"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ramon%20Henrique%20Veloso&fontSize=38&fontColor=5C7A9A&desc=Engenheiro%20de%20Software&descAlignY=72&descSize=15&descColor=7A8FA3&fontAlignY=42" width="100%" alt="Ramon Henrique Veloso — Engenheiro de Software"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3200&pause=900&color=6B849E&center=true&vCenter=true&width=620&lines=Arquitetura.+IA.+Sistemas+em+produ%C3%A7%C3%A3o;APIs%2C+cloud%2C+agents+e+automa%C3%A7%C3%A3o;Do+backend+%C3%A0+experi%C3%AAncia+completa" alt="typing"/>
 
