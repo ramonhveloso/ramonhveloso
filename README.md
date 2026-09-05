@@ -1,14 +1,17 @@
 <div align="center">
 
-<code>software engineer</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>ai systems</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>since 2015</code>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=Ramon%20Henrique%20Veloso&fontSize=34&fontColor=ffffff&fontAlignY=48" width="100%" alt="Ramon Henrique Veloso"/>
 
-# Ramon Henrique Veloso
+**Software Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=15&duration=3000&pause=900&color=8B9CB3&center=true&vCenter=true&width=520&height=24&lines=Architecture.+AI.+Production+systems;APIs+%2F+cloud+%2F+agents+%2F+automation;Backend+%E2%86%92+product+%E2%86%92+production" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=900&color=8B9CB3&center=true&vCenter=true&width=540&height=26&lines=Architecture.+AI.+Production+systems;APIs+%2F+cloud+%2F+agents+%2F+automation;Backend+to+full+product+experience" alt="typing"/>
 
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/ramonhveloso/)&nbsp;·&nbsp;[YouTube](https://www.youtube.com/c/RamonHenriqueVeloso)&nbsp;·&nbsp;[Twitch](https://www.twitch.tv/ramonhveloso)&nbsp;·&nbsp;[Instagram](https://instagram.com/ramonhveloso)
+<a href="https://www.linkedin.com/in/ramonhveloso/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/c/RamonHenriqueVeloso"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a>
+<a href="https://www.twitch.tv/ramonhveloso"><img src="https://img.shields.io/badge/Twitch-0D1117?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
+<a href="https://instagram.com/ramonhveloso"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 
 </div>
 
