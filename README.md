@@ -49,9 +49,9 @@ LLMs · Agents · RAG · AI-assisted engineering
 
 When the editor closes, the rest stays on:
 
-`mathematics` — the language behind everything I build, and what drives me most  
-`soccer` · `footvolley` — rhythm, competition, and team play  
-`music` — the soundtrack to everything that matters  
+Mathematics — the language behind everything I build, and what drives me most  
+Soccer · Footvolley — rhythm, competition, and team play  
+Music — the soundtrack to everything that matters  
 
 And in the air: drones, photogrammetry, 3D scanning, and digital twins — software meeting the physical world.
 
