@@ -1,23 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=88&color=0:05080F,50:0E1624,100:05080F&text=RAMON%20HENRIQUE%20VELOSO&fontSize=28&fontColor=FFFFFF&fontAlignY=40&desc=%5B%20SOFTWARE%20ENGINEER%20%2F%20AI%20%2F%20SYSTEMS%20%5D&descAlignY=68&descSize=12&descColor=B8C4D4" width="85%" alt="Ramon Henrique Veloso — Software Engineer"/>
+<code>software engineer</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>ai systems</code>&nbsp;&nbsp;◆&nbsp;&nbsp;<code>since 2015</code>
+
+# Ramon Henrique Veloso
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=15&duration=3000&pause=900&color=8B9CB3&center=true&vCenter=true&width=520&height=24&lines=Architecture.+AI.+Production+systems;APIs+%2F+cloud+%2F+agents+%2F+automation;Backend+%E2%86%92+product+%E2%86%92+production" alt="typing"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=800&color=8FA3B8&center=true&vCenter=true&width=560&height=28&lines=Architecture.+AI.+Production+systems;APIs+%2F+cloud+%2F+agents+%2F+automation;Backend+to+full+product+experience" alt="typing"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%E2%97%8F_ONLINE-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
-<img src="https://img.shields.io/badge/SINCE-2015-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
-<img src="https://img.shields.io/badge/FOCUS-AI_%2B_SYSTEMS-0E1624?style=flat-square&labelColor=05080F&color=0E1624"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ramonhveloso/"><img src="https://img.shields.io/badge/LinkedIn-05080F?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
-<a href="https://www.youtube.com/c/RamonHenriqueVeloso"><img src="https://img.shields.io/badge/YouTube-05080F?style=for-the-badge&logo=youtube&logoColor=FF4444" alt="YouTube"/></a>
-<a href="https://www.twitch.tv/ramonhveloso"><img src="https://img.shields.io/badge/Twitch-05080F?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch"/></a>
-<a href="https://instagram.com/ramonhveloso"><img src="https://img.shields.io/badge/Instagram-05080F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+[LinkedIn](https://www.linkedin.com/in/ramonhveloso/)&nbsp;·&nbsp;[YouTube](https://www.youtube.com/c/RamonHenriqueVeloso)&nbsp;·&nbsp;[Twitch](https://www.twitch.tv/ramonhveloso)&nbsp;·&nbsp;[Instagram](https://instagram.com/ramonhveloso)
 
 </div>
 
