@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7A93B0&center=true&vCenter=true&width=700&height=50&lines=Ramon+Henrique+Veloso" alt="name"/>
+# Ramon Henrique Veloso
 
 **Engenheiro de Software**
 
@@ -47,9 +47,15 @@ LLMs · Agents · RAG · AI-assisted engineering
 - **Universidade Positivo** — Análise e Desenvolvimento de Sistemas  
 - **Cesumar** — Engenharia Mecatrônica  
 
-### Fora do editor
+### Offtime
 
-Piloto de drones. Fotogrametria, digitalização 3D e digital twins — o ponto em que software encontra o mundo físico.
+Quando o editor fecha, o resto continua ligado:
+
+`matemática` — a linguagem por trás de tudo que eu construo, e o que mais me move  
+`futebol` · `futevôlei` — ritmo, disputa e jogo coletivo  
+`música` — trilha de fundo pra tudo que importa  
+
+E no ar: drones, fotogrametria, digitalização 3D e digital twins — software encontrando o mundo físico.
 
 ---
 
